@@ -1,0 +1,423 @@
+,State,Registration Required,Permit to Carry Required,Permit to Purchase Required,Open Carry is Legal,Number of Registered Weapons,Incident Date,City Or County,Address,# Killed,# Injured
+0,Washington,True,True,False,True,"119,829",21-Nov-19,Everett,120 West Casino Rd,0.0,4.0
+1,Washington,True,True,False,True,"119,829",13-Aug-19,Tacoma,E 38th St and E Roosevelt Ave,2.0,3.0
+2,Washington,True,True,False,True,"119,829",26-Jul-19,Kennewick,E 10th Ave,1.0,3.0
+3,Washington,True,True,False,True,"119,829",8-Jun-19,White Swan,5151 Medicine Valley Rd,5.0,2.0
+4,New York,True,True,True,False,"82,917",29-Dec-19,Buffalo,50 block of Henrietta Ave,1.0,3.0
+5,New York,True,True,True,False,"82,917",27-Nov-19,Bronx,E 153rd St and Courtlandt Ave,0.0,5.0
+6,New York,True,True,True,False,"82,917",12-Oct-19,Brooklyn,75 Utica Ave,4.0,3.0
+7,New York,True,True,True,False,"82,917",5-Aug-19,Brooklyn,216 Buffalo Ave,0.0,4.0
+8,New York,True,True,True,False,"82,917",27-Jul-19,Brooklyn,1555 Linden Blvd,1.0,11.0
+9,New York,True,True,True,False,"82,917",5-Jul-19,Brooklyn,Elton St and Belmont Ave,0.0,4.0
+10,New York,True,True,True,False,"82,917",30-Jun-19,Bay Shore,Farragut Ave,0.0,6.0
+11,New York,True,True,True,False,"82,917",9-Jun-19,Buffalo,2081 Niagara St,0.0,4.0
+12,New York,True,True,True,False,"82,917",6-Feb-19,Brooklyn,1778 Fulton St,1.0,3.0
+13,New Jersey,True,True,True,False,"90,217",10-Dec-19,Jersey City,223 Martin Luther King Dr,6.0,3.0
+14,New Jersey,True,True,True,False,"90,217",18-Nov-19,Newark,139 S 8th St,1.0,4.0
+15,New Jersey,True,True,True,False,"90,217",28-Jun-19,Paterson,50 block of Jefferson St,0.0,4.0
+16,New Jersey,True,True,True,False,"90,217",28-Jun-19,Jersey City,167 Armstrong Ave,0.0,4.0
+17,New Jersey,True,True,True,False,"90,217",18-Jun-19,Newark,700 block of Dr Martin Luther King Jr Blvd,1.0,4.0
+18,New Jersey,True,True,True,False,"90,217",27-May-19,Trenton,100 block of Walnut St,1.0,5.0
+19,New Jersey,True,True,True,False,"90,217",25-May-19,Trenton,225 Brunswick Ave,0.0,9.0
+20,New Jersey,True,True,True,False,"90,217",5-May-19,North Bergen,2033 45th Street,1.0,4.0
+21,New Jersey,True,True,True,False,"90,217",16-Mar-19,Camden,619 Ferry Ave,1.0,3.0
+22,New Jersey,True,True,True,False,"90,217",11-Mar-19,Paterson,291 12th Ave,0.0,4.0
+23,New Jersey,True,True,True,False,"90,217",26-Jan-19,Newark,612 Bergen St,1.0,3.0
+24,Michigan,True,True,False,True,"83,355",1-Dec-19,Kalamazoo,6300 block of Proctor St,1.0,3.0
+25,Michigan,True,True,False,True,"83,355",9-Nov-19,Detroit,3800 block of E McNichols Rd,0.0,4.0
+26,Michigan,True,True,False,True,"83,355",2-Nov-19,Detroit,7000 block of E. Kirby,1.0,4.0
+27,Michigan,True,True,False,True,"83,355",27-Oct-19,Detroit,East Outer Dr and Helen St,0.0,4.0
+28,Michigan,True,True,False,True,"83,355",27-Oct-19,Lansing,Balfour Dr and W Miller Rd,1.0,4.0
+29,Michigan,True,True,False,True,"83,355",12-Oct-19,Eastpointe,15163 E 10 Mile Rd,1.0,5.0
+30,Michigan,True,True,False,True,"83,355",7-Jul-19,Flint,Clio Rd and Myrtle St,0.0,6.0
+31,Michigan,True,True,False,True,"83,355",21-Jun-19,Saginaw,1506 N Charles St,1.0,3.0
+32,Michigan,True,True,False,True,"83,355",25-May-19,Detroit,3400 block of Devonshire,3.0,2.0
+33,Maryland,True,True,True,True,"128,289",22-Dec-19,Baltimore,225 Park Ave,0.0,7.0
+34,Maryland,True,True,True,True,"128,289",29-Oct-19,Baltimore,4700 block of Liberty Heights Ave,1.0,3.0
+35,Maryland,True,True,True,True,"128,289",28-Oct-19,Baltimore,4160 Pimlico Rd,1.0,3.0
+36,Maryland,True,True,True,True,"128,289",12-Oct-19,Baltimore,800 block of W Lexington St,1.0,3.0
+37,Maryland,True,True,True,True,"128,289",9-Oct-19,Baltimore,1600 block of W North Ave,1.0,3.0
+38,Maryland,True,True,True,True,"128,289",31-Aug-19,Baltimore,900 block of N Monroe St,0.0,4.0
+39,Maryland,True,True,True,True,"128,289",31-Aug-19,Frederick,600 block of N Market St,0.0,4.0
+40,Maryland,True,True,True,True,"128,289",30-Aug-19,Baltimore,1600 block of E 29th St,1.0,3.0
+41,Maryland,True,True,True,True,"128,289",29-Aug-19,Baltimore,2500 block of E Monument St,1.0,3.0
+42,Maryland,True,True,True,True,"128,289",24-Aug-19,Temple Hills (Camp Springs),6200 block of Maxwell Dr,0.0,7.0
+43,Maryland,True,True,True,True,"128,289",20-Jul-19,Baltimore,2800 block of Boarman Ave,1.0,3.0
+44,Maryland,True,True,True,True,"128,289",1-Jul-19,Baltimore,1200 block of N Luzerne Ave,0.0,4.0
+45,Maryland,True,True,True,True,"128,289",22-Jun-19,Baltimore,800 block of N Port St,1.0,4.0
+46,Maryland,True,True,True,True,"128,289",25-May-19,Baltimore,500 block of N Belnord Ave,0.0,4.0
+47,Maryland,True,True,True,True,"128,289",3-May-19,Baltimore,1900 block of Ramsay St,0.0,5.0
+48,Maryland,True,True,True,True,"128,289",3-May-19,Baltimore,2500 block of E Biddle St,0.0,4.0
+49,Maryland,True,True,True,True,"128,289",28-Apr-19,Baltimore,2544 Edmondson Ave,1.0,7.0
+50,Maryland,True,True,True,True,"128,289",16-Apr-19,Germantown,18700 block of Curry Powder Ln,1.0,3.0
+51,Maryland,True,True,True,True,"128,289",11-Apr-19,Baltimore,2200 block of Ruskin Ave,1.0,3.0
+52,Maryland,True,True,True,True,"128,289",28-Mar-19,Baltimore,6200 block of Boston St,0.0,4.0
+53,Maryland,True,True,True,True,"128,289",21-Feb-19,Baltimore,500 block of Bloom St,1.0,4.0
+54,Hawaii,True,True,True,True,"8,665",,,,,
+55,Connecticut,True,True,True,True,"74,877",1-Sep-19,Hartford,80 Edgewood St,1.0,3.0
+56,Connecticut,True,True,True,True,"74,877",29-Jun-19,Hartford,Judson St and Martin St,0.0,4.0
+57,Connecticut,True,True,True,True,"74,877",28-Jun-19,Hamden,937 Choate Ave,0.0,5.0
+58,California,True,True,True,,"376,666",29-Dec-19,Ceres,800 block of Allacante Dr,0.0,5.0
+59,California,True,True,True,,"376,666",27-Dec-19,Modesto,1900 block of Vernon Ave,1.0,3.0
+60,California,True,True,True,,"376,666",25-Dec-19,Oakland,2100 block of 34th Ave,0.0,4.0
+61,California,True,True,True,,"376,666",14-Dec-19,Ivanhoe,15700 block of Paradise Ave,0.0,4.0
+62,California,True,True,True,,"376,666",24-Nov-19,Los Angeles,100 block of E 11th St,0.0,6.0
+63,California,True,True,True,,"376,666",23-Nov-19,Los Angeles,833 S Spring St,0.0,4.0
+64,California,True,True,True,,"376,666",21-Nov-19,Long Beach,1100 block of 10th St,0.0,5.0
+65,California,True,True,True,,"376,666",20-Nov-19,Richmond,20th St and Roosevelt Ave,0.0,4.0
+66,California,True,True,True,,"376,666",17-Nov-19,Fresno,5361 E Lamona Ave,4.0,6.0
+67,California,True,True,True,,"376,666",16-Nov-19,San Diego,2152 Flintridge Dr,6.0,0.0
+68,California,True,True,True,,"376,666",14-Nov-19,Santa Clarita,21900 Centurion Way,3.0,3.0
+69,California,True,True,True,,"376,666",31-Oct-19,Orinda,114 Lucille Way,5.0,3.0
+70,California,True,True,True,,"376,666",29-Oct-19,Long Beach,2709 E 7th St,3.0,9.0
+71,California,True,True,True,,"376,666",18-Sep-19,Wilmington,800 block of Bayview Ave,2.0,2.0
+72,California,True,True,True,,"376,666",14-Sep-19,Oakland,38th Ave and MacArthur Blvd,1.0,4.0
+73,California,True,True,True,,"376,666",22-Aug-19,Los Angeles,300 block of West Fifth St,0.0,4.0
+74,California,True,True,True,,"376,666",10-Aug-19,San Francisco,1100 Fillmore St,0.0,4.0
+75,California,True,True,True,,"376,666",28-Jul-19,Gilroy,7050 Miller Ave,4.0,17.0
+76,California,True,True,True,,"376,666",25-Jul-19,Canoga Park,21901 Roscoe Boulevard,4.0,2.0
+77,California,True,True,True,,"376,666",6-Jul-19,San Jose,3036 Quinto Way,0.0,4.0
+78,California,True,True,True,,"376,666",4-Jul-19,Los Angeles,1900 block of Adair St,0.0,4.0
+79,California,True,True,True,,"376,666",4-Jul-19,Fresno,4700 block of E Hamilton Ave,1.0,3.0
+80,California,True,True,True,,"376,666",30-Jun-19,Oakland,3000 block of Brookdale Ave,0.0,4.0
+81,California,True,True,True,,"376,666",30-Jun-19,Yucaipa,12700 block of California St,0.0,5.0
+82,California,True,True,True,,"376,666",23-Jun-19,La Jolla,7500 block of Draper Ave,1.0,3.0
+83,California,True,True,True,,"376,666",23-Jun-19,San Jose,568 Habbitts Court,5.0,0.0
+84,California,True,True,True,,"376,666",21-Jun-19,Santa Maria,519  West Taylor St,5.0,0.0
+85,California,True,True,True,,"376,666",21-Jun-19,Richmond,700 block of 14th St,0.0,5.0
+86,California,True,True,True,,"376,666",5-Jun-19,Santa Rosa,828 W 9th Street,0.0,4.0
+87,California,True,True,True,,"376,666",31-May-19,West Covina,306 N Hollow Ave,1.0,3.0
+88,California,True,True,True,,"376,666",26-May-19,Stockton,600 block of E Oak St,1.0,3.0
+89,California,True,True,True,,"376,666",18-May-19,Long Beach,1616 West Pacific Coast Highway,1.0,4.0
+90,California,True,True,True,,"376,666",17-May-19,Sacramento,7326 Stockton Blvd,1.0,3.0
+91,California,True,True,True,,"376,666",14-May-19,Los Angeles,1248 W 47th St,0.0,4.0
+92,California,True,True,True,,"376,666",5-May-19,Oceano,1001 Cabrillo Hwy,0.0,6.0
+93,California,True,True,True,,"376,666",4-May-19,Stockton,5105 Holiday Dr,1.0,4.0
+94,California,True,True,True,,"376,666",27-Apr-19,Poway,16934 Chabad Way,1.0,3.0
+95,California,True,True,True,,"376,666",27-Apr-19,Los Angeles,700 N San Fernando Rd,0.0,6.0
+96,California,True,True,True,,"376,666",14-Apr-19,Stockton,2539 E Main St,0.0,4.0
+97,California,True,True,True,,"376,666",14-Apr-19,Vallejo,100 block of Princeton Ave,1.0,3.0
+98,California,True,True,True,,"376,666",13-Apr-19,Moreno Valley,23500 block of Alessandro Blvd,0.0,4.0
+99,California,True,True,True,,"376,666",11-Apr-19,Los Angeles,E 103rd St and S Main St,1.0,4.0
+100,California,True,True,True,,"376,666",24-Mar-19,San Francisco,1300 Fillmore St,1.0,5.0
+101,California,True,True,True,,"376,666",3-Mar-19,Oakland,316 14th St,0.0,4.0
+102,California,True,True,True,,"376,666",28-Feb-19,Oakland,9755 Edes Ave,1.0,3.0
+103,California,True,True,True,,"376,666",3-Feb-19,Palm Springs,E Sunny Dunes Rd and El Placer Rd,4.0,0.0
+104,California,True,True,True,,"376,666",1-Feb-19,San Diego,6800 block of Springfield St,0.0,4.0
+105,California,True,True,True,,"376,666",16-Jan-19,Palmdale,Ranch Center Dr and 40th St W,3.0,1.0
+106,California,True,True,True,,"376,666",4-Jan-19,Torrance,22501 Hawthorne Blvd,3.0,4.0
+107,Wyoming,False,False,False,True,"134,050",16-Sep-19,Cheyenne,3436 E. 11th St,2.0,2.0
+108,Wisconsin,False,True,False,True,"79,639",29-Sep-19,Milwaukee,1500 block of N 29th St,0.0,4.0
+109,Wisconsin,False,True,False,True,"79,639",28-Jul-19,Chippewa Falls,16964 54th Ave,5.0,2.0
+110,Wisconsin,False,True,False,True,"79,639",26-Jun-19,Milwaukee,2800 block of N 34th St,0.0,4.0
+111,West Virginia,False,False,False,True,"41,651",,,,,
+112,Virginia,False,True,False,True,"356,963",25-Dec-19,Richmond,1800 E Main St,1.0,3.0
+113,Virginia,False,True,False,True,"356,963",10-Aug-19,Richmond,6346 Midlothian Turnpike,0.0,4.0
+114,Virginia,False,True,False,True,"356,963",2-Aug-19,Suffolk,200 block of N Broad St,2.0,3.0
+115,Virginia,False,True,False,True,"356,963",22-Jun-19,Hampton,1st St and E Pembroke Ave,0.0,4.0
+116,Virginia,False,True,False,True,"356,963",1-Jun-19,Portsmouth,1100 block of Mt Vernon Ave,1.0,3.0
+117,Virginia,False,True,False,True,"356,963",31-May-19,Virginia Beach,2405 Courthouse Drive,13.0,4.0
+118,Virginia,False,True,False,True,"356,963",26-May-19,La Crosse,800 block of Alvis Road,0.0,5.0
+119,Virginia,False,True,False,True,"356,963",25-May-19,Chesapeake,Holly Cove Dr and Schooner Trail,1.0,9.0
+120,Virginia,False,True,False,True,"356,963",9-Feb-19,Petersburg,109 Perry St,0.0,4.0
+121,Virginia,False,True,False,True,"356,963",4-Jan-19,Hurt,3197 Shula Dr,3.0,2.0
+122,Vermont,False,False,False,True,"7,716",,,,,
+123,Utah,False,True,False,True,"93,440",,,,,
+124,Texas,False,True,False,True,"725,368",27-Dec-19,Houston,500 block of Smart St,2.0,7.0
+125,Texas,False,True,False,True,"725,368",18-Dec-19,San Antonio,2418 SW Military Dr,0.0,4.0
+126,Texas,False,True,False,True,"725,368",8-Dec-19,Desoto,200 block of W Wintergreen Rd,2.0,3.0
+127,Texas,False,True,False,True,"725,368",29-Nov-19,Amarillo,2650 Dumas Dr,0.0,7.0
+128,Texas,False,True,False,True,"725,368",4-Nov-19,Houston,5000 block of Northridge Dr,1.0,4.0
+129,Texas,False,True,False,True,"725,368",3-Nov-19,Nacogdoches,Sandyland Cir and CR 823,1.0,3.0
+130,Texas,False,True,False,True,"725,368",1-Nov-19,San Angelo,1616 S Chadbourne St,0.0,4.0
+131,Texas,False,True,False,True,"725,368",26-Oct-19,Greenville,2275 US-380,2.0,6.0
+132,Texas,False,True,False,True,"725,368",20-Oct-19,Port Arthur,1100 block of Vicksburg Ave,1.0,3.0
+133,Texas,False,True,False,True,"725,368",19-Oct-19,El Paso,3812 Truman Ave,1.0,4.0
+134,Texas,False,True,False,True,"725,368",29-Sep-19,Beaumont,4100 block of Highland Ave,4.0,0.0
+135,Texas,False,True,False,True,"725,368",31-Aug-19,Odessa,8250 TX 191,8.0,23.0
+136,Texas,False,True,False,True,"725,368",23-Aug-19,Houston,4900 block of Southwind St,3.0,2.0
+137,Texas,False,True,False,True,"725,368",17-Aug-19,Houston,12500 block of Mylla St,0.0,6.0
+138,Texas,False,True,False,True,"725,368",3-Aug-19,El Paso,7101 Gateway Blvd,22.0,24.0
+139,Texas,False,True,False,True,"725,368",17-Jul-19,Lubbock,N Elder Ave and E Colgate St,1.0,3.0
+140,Texas,False,True,False,True,"725,368",16-Jul-19,San Antonio,6989 San Pedro Ave,0.0,4.0
+141,Texas,False,True,False,True,"725,368",11-Jul-19,Houston,5901 Royal Palms St,0.0,4.0
+142,Texas,False,True,False,True,"725,368",3-Jul-19,Katy,5507 Everhart Manor Ln,2.0,3.0
+143,Texas,False,True,False,True,"725,368",30-Jun-19,Dallas,3535 Munger Ave,2.0,2.0
+144,Texas,False,True,False,True,"725,368",17-Jun-19,San Antonio,E Market St and Tower of the Americas Way,0.0,4.0
+145,Texas,False,True,False,True,"725,368",7-Jun-19,Austin,8220 TX-71,0.0,5.0
+146,Texas,False,True,False,True,"725,368",29-May-19,Cleveland,26311 TX-321,3.0,2.0
+147,Texas,False,True,False,True,"725,368",3-May-19,Dallas,5400 Cedar Springs Rd,1.0,3.0
+148,Texas,False,True,False,True,"725,368",20-Apr-19,Corpus Christi,2900 block of Sunrise Ave,0.0,4.0
+149,Texas,False,True,False,True,"725,368",21-Feb-19,Houston,12800 block of Eastbrook Dr,2.0,2.0
+150,Texas,False,True,False,True,"725,368",17-Feb-19,Henderson,504 S Van Buren St,2.0,2.0
+151,Texas,False,True,False,True,"725,368",11-Feb-19,Livingston,3628 FM 3126,5.0,0.0
+152,Texas,False,True,False,True,"725,368",5-Feb-19,San Antonio,538 Hot Wells Blvd,2.0,2.0
+153,Texas,False,True,False,True,"725,368",28-Jan-19,Houston,7815 Harding St,2.0,5.0
+154,Texas,False,True,False,True,"725,368",19-Jan-19,Houston,7041 Sherman St,3.0,2.0
+155,Tennessee,False,True,False,True,"121,140",10-Nov-19,Memphis,2080 E. Brooks Rd,1.0,4.0
+156,Tennessee,False,True,False,True,"121,140",4-Aug-19,Memphis,443 E Shelby Dr,1.0,3.0
+157,Tennessee,False,True,False,True,"121,140",17-Jun-19,Memphis,2872 Coach Dr,0.0,5.0
+158,Tennessee,False,True,False,True,"121,140",9-Jun-19,Henning,265 N Main St,1.0,3.0
+159,Tennessee,False,True,False,True,"121,140",28-Apr-19,Nashville,1407 Dr DB Todd Jr Blvd,0.0,7.0
+160,Tennessee,False,True,False,True,"121,140",20-Apr-19,Memphis,761 Chestnut Ave,0.0,5.0
+161,Tennessee,False,True,False,True,"121,140",20-Feb-19,Covington,529 N College St,0.0,4.0
+162,South Dakota,False,True,False,True,"31,134",,,,,
+163,South Carolina,False,True,False,False,"99,283",21-Oct-19,Sumter,29 Wesmark Blvd,0.0,4.0
+164,South Carolina,False,True,False,False,"99,283",21-Sep-19,Lancaster,1399 Old Charlotte Rd,2.0,8.0
+165,South Carolina,False,True,False,False,"99,283",8-Sep-19,Sumter,1083 Broad St,2.0,2.0
+166,South Carolina,False,True,False,False,"99,283",31-Aug-19,Moncks Corner,336 Maplewood Rd,0.0,4.0
+167,South Carolina,False,True,False,False,"99,283",22-Aug-19,Columbia,851 Bush River Rd,2.0,2.0
+168,South Carolina,False,True,False,False,"99,283",23-Jun-19,Abbeville,1108 Cambridge St,3.0,1.0
+169,South Carolina,False,True,False,False,"99,283",1-Jun-19,Allendale,473 Main St S,0.0,5.0
+170,South Carolina,False,True,False,False,"99,283",31-Mar-19,North Charleston,1900 block of Jacksonville Rd,0.0,7.0
+171,South Carolina,False,True,False,False,"99,283",19-Jan-19,Gaffney,1435 Wilcox Ave,1.0,4.0
+172,South Carolina,False,True,False,False,"99,283",1-Jan-19,Columbia,1709 Decker Blvd,0.0,5.0
+173,Rhode Island,False,True,True,True,"4,655",,,,,
+174,Pennsylvania,False,True,False,True,"271,427",30-Oct-19,Philadelphia,5026 Walton Ave,4.0,0.0
+175,Pennsylvania,False,True,False,True,"271,427",19-Oct-19,Duquesne,600 block of Priscilla Ave,0.0,4.0
+176,Pennsylvania,False,True,False,True,"271,427",13-Oct-19,Philadelphia,W Clearfield St and N 8th St,0.0,6.0
+177,Pennsylvania,False,True,False,True,"271,427",12-Oct-19,Philadelphia,700 block of W Russell St,1.0,3.0
+178,Pennsylvania,False,True,False,True,"271,427",10-Oct-19,Philadelphia,900 block of S 5th St,0.0,5.0
+179,Pennsylvania,False,True,False,True,"271,427",31-Aug-19,Philadelphia,4600 block of 4th St,2.0,2.0
+180,Pennsylvania,False,True,False,True,"271,427",15-Aug-19,Philadelphia,5800 block of N 15th St,0.0,5.0
+181,Pennsylvania,False,True,False,True,"271,427",14-Aug-19,Philadelphia,3716 N 15th St,0.0,6.0
+182,Pennsylvania,False,True,False,True,"271,427",28-Jul-19,Philadelphia,2600 block of Carroll St,1.0,5.0
+183,Pennsylvania,False,True,False,True,"271,427",20-Jul-19,Clairton,501 Waddell Ave,0.0,4.0
+184,Pennsylvania,False,True,False,True,"271,427",13-Jul-19,Philadelphia,5433 Lansdowne Ave,0.0,7.0
+185,Pennsylvania,False,True,False,True,"271,427",22-Jun-19,Philadelphia,2400 block of Moore St,0.0,4.0
+186,Pennsylvania,False,True,False,True,"271,427",20-Jun-19,Allentown,343 Hamilton St,0.0,10.0
+187,Pennsylvania,False,True,False,True,"271,427",16-Jun-19,Philadelphia,2910 S 70th St,1.0,5.0
+188,Pennsylvania,False,True,False,True,"271,427",11-May-19,Effort,Toll Rd and Bayberry Rd,0.0,4.0
+189,Pennsylvania,False,True,False,True,"271,427",10-May-19,Philadelphia,1900 block of N Croskey St,0.0,5.0
+190,Pennsylvania,False,True,False,True,"271,427",21-Apr-19,Philadelphia,1500 block of South 31st St,0.0,4.0
+191,Pennsylvania,False,True,False,True,"271,427",24-Jan-19,State College,1450 S Atherton St,4.0,1.0
+192,Pennsylvania,False,True,False,True,"271,427",19-Jan-19,Lebanon,1140 Church St,0.0,4.0
+193,Oregon,False,True,False,True,"74,722",19-May-19,Portland,226 SE Madison St,0.0,5.0
+194,Oklahoma,False,True,False,True,"83,112",24-Oct-19,Oklahoma City,1900 block of NW 12th St,2.0,2.0
+195,Oklahoma,False,True,False,True,"83,112",22-Oct-19,Oklahoma City (Midwest City),7020 E Green Ave,1.0,3.0
+196,Oklahoma,False,True,False,True,"83,112",25-May-19,Oklahoma City,N Kelley Ave and NE 26th St,0.0,5.0
+197,Oklahoma,False,True,False,True,"83,112",20-May-19,Tulsa,8118 E 16th St,2.0,2.0
+198,Ohio,False,True,False,True,"175,819",17-Nov-19,Cleveland,7100 block of Lawn Ave,0.0,4.0
+199,Ohio,False,True,False,True,"175,819",3-Nov-19,Toledo,600 block of Magnolia St,0.0,4.0
+200,Ohio,False,True,False,True,"175,819",15-Oct-19,Columbus,1600 block of Manchester Ave,0.0,4.0
+201,Ohio,False,True,False,True,"175,819",13-Oct-19,Akron,Main St,0.0,4.0
+202,Ohio,False,True,False,True,"175,819",21-Sep-19,Cleveland,3616 East 144th St,4.0,0.0
+203,Ohio,False,True,False,True,"175,819",1-Sep-19,Toledo,3257 Stickney Ave,0.0,4.0
+204,Ohio,False,True,False,True,"175,819",4-Aug-19,Dayton,419 E 5th St,10.0,17.0
+205,Ohio,False,True,False,True,"175,819",30-Jul-19,Columbus,1280 E Long St,0.0,5.0
+206,Ohio,False,True,False,True,"175,819",26-Jun-19,Akron,900 block of Rowe St,1.0,3.0
+207,Ohio,False,True,False,True,"175,819",23-Jun-19,Columbus,1767 Genessee Ave,0.0,5.0
+208,Ohio,False,True,False,True,"175,819",9-Jun-19,Cleveland,17218 Tarkington Ave,1.0,3.0
+209,Ohio,False,True,False,True,"175,819",20-May-19,Columbus,2424 Sullivant Ave,0.0,4.0
+210,Ohio,False,True,False,True,"175,819",16-May-19,Cleveland,9500 Cardwell Ave,0.0,4.0
+211,Ohio,False,True,False,True,"175,819",28-Apr-19,West Chester,4637 Wyndtree Dr,4.0,0.0
+212,North Dakota,False,True,True,True,"19,720",,,,,
+213,North Carolina,False,True,True,True,"181,209",24-Dec-19,High Point,1226 Montlieu Ave,0.0,6.0
+214,North Carolina,False,True,True,True,"181,209",8-Nov-19,Raleigh,503 Bragg St,1.0,3.0
+215,North Carolina,False,True,True,True,"181,209",3-Oct-19,Roxboro,700 South Foushee St,1.0,3.0
+216,North Carolina,False,True,True,True,"181,209",7-Sep-19,Whiteville,Brittney Lane,3.0,1.0
+217,North Carolina,False,True,True,True,"181,209",2-Sep-19,Greensboro,5528 W Market St,2.0,2.0
+218,North Carolina,False,True,True,True,"181,209",1-Sep-19,Rocky Mount,521 Country Club Road,0.0,4.0
+219,North Carolina,False,True,True,True,"181,209",31-Aug-19,Charlotte,10035 Dabney Dr,1.0,3.0
+220,North Carolina,False,True,True,True,"181,209",12-Jun-19,Charlotte,305 N Graham St,1.0,3.0
+221,North Carolina,False,True,True,True,"181,209",18-May-19,Winston Salem (Winston-salem),4252 Cody Drive,2.0,4.0
+222,North Carolina,False,True,True,True,"181,209",30-Apr-19,Charlotte,9214 South Library Ln,2.0,4.0
+223,North Carolina,False,True,True,True,"181,209",7-Apr-19,Winston Salem (Winston-salem),515 N Cherry St,0.0,7.0
+224,New Mexico,False,True,False,True,"105,836",12-Sep-19,Albuquerque,1919 Ladera Dr NW,1.0,3.0
+225,New Mexico,False,True,False,True,"105,836",12-Sep-19,Albuquerque,1028 Lura Pl SW,4.0,2.0
+226,New Mexico,False,True,False,True,"105,836",25-Aug-19,Hobbs,1700 block of E Bond St,3.0,4.0
+227,New Mexico,False,True,False,True,"105,836",7-Jul-19,Albuquerque,211 Gold Ave SW,0.0,4.0
+228,New Mexico,False,True,False,True,"105,836",6-Jan-19,Roswell,1300 block of W College Blvd,0.0,4.0
+229,New Hampshire,False,False,False,True,"59,341",,,,,
+230,Nevada,False,True,False,True,"96,822",5-Jul-19,Reno,600 block of Spokane St,1.0,3.0
+231,Nevada,False,True,False,True,"96,822",25-Mar-19,North Las Vegas,2400 block of W San Miguel St,0.0,5.0
+232,Nevada,False,True,False,True,"96,822",17-Mar-19,Las Vegas,600 E Fremont St,0.0,4.0
+233,Nebraska,False,True,True,True,"29,753",18-May-19,Omaha,2825 Y St,0.0,4.0
+234,Montana,False,False,False,True,"23,476",17-Dec-19,Great Falls,1701 10th Ave S,4.0,1.0
+235,Montana,False,False,False,True,"23,476",14-Mar-19,Missoula,5145 Airway Blvd,1.0,3.0
+236,Missouri,False,False,False,True,"88,270",12-Dec-19,Saint Louis,9900 block of Lewis and Clark Blvd,1.0,3.0
+237,Missouri,False,False,False,True,"88,270",10-Nov-19,Kansas City,4704 Independence Ave,0.0,4.0
+238,Missouri,False,False,False,True,"88,270",5-Oct-19,Saint Louis,10035 Crown Point Dr,0.0,5.0
+239,Missouri,False,False,False,True,"88,270",3-Oct-19,Marshall,S Olson Ave,1.0,3.0
+240,Missouri,False,False,False,True,"88,270",1-Oct-19,Saint Louis,Leonor K. Sullivan Blvd and Poplar St,0.0,4.0
+241,Missouri,False,False,False,True,"88,270",22-Sep-19,Kansas City,2111 Television Plaza,0.0,5.0
+242,Missouri,False,False,False,True,"88,270",14-Sep-19,Saint Louis,5200 block of Tennessee Ave,1.0,3.0
+243,Missouri,False,False,False,True,"88,270",23-Aug-19,Saint Louis,1122 Union Blvd,1.0,3.0
+244,Missouri,False,False,False,True,"88,270",18-Aug-19,Kansas City,770 W 47th St,0.0,4.0
+245,Missouri,False,False,False,True,"88,270",7-Aug-19,Saint Louis,4900 block of Plover Ave,3.0,1.0
+246,Missouri,False,False,False,True,"88,270",7-Jul-19,Saint Louis,N Tucker Blvd and Convention Plaza,0.0,5.0
+247,Missouri,False,False,False,True,"88,270",6-Jul-19,Saint Louis,1921 Chambers Rd,5.0,0.0
+248,Missouri,False,False,False,True,"88,270",2-Jul-19,Saint Louis (Wellston),6250 Page Ave,0.0,4.0
+249,Missouri,False,False,False,True,"88,270",27-May-19,Saint Louis,5900 block of Goodfellow Blvd,2.0,2.0
+250,Missouri,False,False,False,True,"88,270",13-May-19,Saint Louis,4047 Shreve Ave,4.0,1.0
+251,Missouri,False,False,False,True,"88,270",10-May-19,Saint Louis,4000 block of Ashland Ave,0.0,6.0
+252,Missouri,False,False,False,True,"88,270",4-May-19,Saint Louis,Union Blvd and Northland Ave,1.0,4.0
+253,Missouri,False,False,False,True,"88,270",9-Apr-19,Kansas City,5339 Michigan Ave,1.0,3.0
+254,Mississippi,False,False,False,True,"52,346",20-Dec-19,Waynesboro,Turner St,1.0,6.0
+255,Mississippi,False,False,False,True,"52,346",12-Aug-19,Greenwood,200 Young St,0.0,4.0
+256,Mississippi,False,False,False,True,"52,346",18-May-19,Cascilla,700 Leverette Ln,1.0,4.0
+257,Mississippi,False,False,False,True,"52,346",27-Apr-19,Jackson,700 block of Monterey St,1.0,3.0
+258,Mississippi,False,False,False,True,"52,346",2-Apr-19,Hermanville,13195 MS 18,0.0,4.0
+259,Mississippi,False,False,False,True,"52,346",16-Feb-19,Clinton,1214 Foxhill Dr,5.0,0.0
+260,Minnesota,False,True,True,True,"98,585",22-Dec-19,Minneapolis (Spring Lake Park),8407 Plaza Blvd NE,1.0,7.0
+261,Minnesota,False,True,True,True,"98,585",28-Jun-19,Saint Paul,909 Desoto St,0.0,5.0
+262,Massachusetts,False,True,True,True,"39,886",9-Oct-19,Lowell,149 Ennell Street,0.0,5.0
+263,Massachusetts,False,True,True,True,"39,886",7-Oct-19,Abington,135 Centre Ave,5.0,0.0
+264,Massachusetts,False,True,True,True,"39,886",24-Aug-19,Lynn,Warren Street,1.0,3.0
+265,Massachusetts,False,True,True,True,"39,886",5-Jul-19,Boston,Maple St,0.0,6.0
+266,Massachusetts,False,True,True,True,"39,886",1-May-19,Boston,32 Windermere Rd,1.0,3.0
+267,Maine,False,False,False,True,"17,410",,,,,
+268,Louisiana,False,True,False,True,"116,398",24-Dec-19,New Orleans,6400 block of General Meyer Ave,0.0,4.0
+269,Louisiana,False,True,False,True,"116,398",21-Dec-19,Edgard,2555 LA-18,0.0,4.0
+270,Louisiana,False,True,False,True,"116,398",8-Dec-19,New Orleans,3801 Washington Ave,1.0,4.0
+271,Louisiana,False,True,False,True,"116,398",1-Dec-19,Cotton Valley,116 Hawthorne Loop,2.0,3.0
+272,Louisiana,False,True,False,True,"116,398",1-Dec-19,New Orleans,2000 block of N Dorgenois St,2.0,2.0
+273,Louisiana,False,True,False,True,"116,398",1-Dec-19,New Orleans,700 block of Canal St,0.0,12.0
+274,Louisiana,False,True,False,True,"116,398",24-Nov-19,Cottonport,3846 LA-29,2.0,2.0
+275,Louisiana,False,True,False,True,"116,398",23-Nov-19,Tallulah,Depot St,1.0,6.0
+276,Louisiana,False,True,False,True,"116,398",2-Nov-19,Baton Rouge,137 Taylor St,0.0,4.0
+277,Louisiana,False,True,False,True,"116,398",21-Sep-19,New Orleans,Poland Ave and St. Claude Ave,0.0,4.0
+278,Louisiana,False,True,False,True,"116,398",20-Sep-19,New Orleans,Canal Blvd and City Park Ave,1.0,5.0
+279,Louisiana,False,True,False,True,"116,398",8-Sep-19,Alexandria,2900 block of Cypress St,1.0,3.0
+280,Louisiana,False,True,False,True,"116,398",4-Sep-19,Marrero,3044 Sorbonne Dr,2.0,2.0
+281,Louisiana,False,True,False,True,"116,398",4-Aug-19,Lake Charles,110 Pryce St,0.0,4.0
+282,Louisiana,False,True,False,True,"116,398",29-Jun-19,Gray,2700 block of W Park Ave,0.0,4.0
+283,Louisiana,False,True,False,True,"116,398",29-Jun-19,Baton Rouge,7132 Florida Blvd,0.0,7.0
+284,Louisiana,False,True,False,True,"116,398",15-Jun-19,Shreveport,2500 block of Hollywood Ave,0.0,4.0
+285,Louisiana,False,True,False,True,"116,398",29-May-19,Reserve,300 block of Homewood Place,1.0,3.0
+286,Louisiana,False,True,False,True,"116,398",20-May-19,Alexandria,1900 block of Bacon Street,1.0,4.0
+287,Louisiana,False,True,False,True,"116,398",15-May-19,Saint Rose,100 block of St. Rose Ave,0.0,4.0
+288,Louisiana,False,True,False,True,"116,398",13-May-19,New Orleans,2100 block of 4th St,0.0,4.0
+289,Louisiana,False,True,False,True,"116,398",7-Apr-19,Shreveport,433 Flournoy Lucas Rd,0.0,4.0
+290,Louisiana,False,True,False,True,"116,398",10-Mar-19,Shreveport,2700 block of San Jacinto Ave,0.0,4.0
+291,Louisiana,False,True,False,True,"116,398",17-Feb-19,New Orleans,Tulane Ave and Elk Pl,1.0,5.0
+292,Louisiana,False,True,False,True,"116,398",4-Feb-19,Baton Rouge,4000 block of Topeka St,0.0,4.0
+293,Louisiana,False,True,False,True,"116,398",26-Jan-19,Gonzales,42350 Church Point Rd,5.0,0.0
+294,Kentucky,False,True,False,True,"93,719",16-Jun-19,Louisville,Dixie Highway and Ormsby Ave,1.0,6.0
+295,Kentucky,False,True,False,True,"93,719",18-Apr-19,Louisville,4000 block of Bells Ln,0.0,4.0
+296,Kentucky,False,True,False,True,"93,719",2-Apr-19,Covington,300 block of 13th St,0.0,5.0
+297,Kentucky,False,True,False,True,"93,719",21-Feb-19,Elizabethtown,600 N Miles St,2.0,2.0
+298,Kentucky,False,True,False,True,"93,719",17-Jan-19,Owensboro,940 Audubon Ave,3.0,1.0
+299,Kansas,False,False,False,True,"54,409",6-Oct-19,Kansas City,1013 Central Ave,4.0,5.0
+300,Kansas,False,False,False,True,"54,409",29-Sep-19,Claflin,1500 block of NE 100th Rd,0.0,4.0
+301,Kansas,False,False,False,True,"54,409",27-Jul-19,Wichita,505 N Rock Rd,1.0,3.0
+302,Kansas,False,False,False,True,"54,409",19-Apr-19,Wichita,1628 S George Washington Blvd,0.0,4.0
+303,Iowa,False,True,True,True,"36,540",25-Dec-19,Coralville,900 block of Boston Way,1.0,3.0
+304,Iowa,False,True,True,True,"36,540",16-Jun-19,Des Moines,1200 block of Sampson St,0.0,6.0
+305,Iowa,False,True,True,True,"36,540",18-May-19,Cedar Rapids,70 Kirkwood Ct SW,2.0,2.0
+306,Indiana,False,True,False,True,"133,594",6-Oct-19,Evansville,1127 Chestnut St,0.0,5.0
+307,Indiana,False,True,False,True,"133,594",23-Sep-19,Gary,1600 block of Connecticut St,2.0,2.0
+308,Indiana,False,True,False,True,"133,594",21-Sep-19,Indianapolis,101 W Maryland St,0.0,6.0
+309,Indiana,False,True,False,True,"133,594",23-Jun-19,South Bend,1150 E Mishawaka Ave,1.0,10.0
+310,Indiana,False,True,False,True,"133,594",18-May-19,Muncie,2410 W. Euclid Ave,1.0,6.0
+311,Indiana,False,True,False,True,"133,594",8-May-19,Indianapolis,Roache St and Rader St,0.0,4.0
+312,Indiana,False,True,False,True,"133,594",4-May-19,Indianapolis,101 W Maryland St,0.0,4.0
+313,Indiana,False,True,False,True,"133,594",7-Apr-19,Indianapolis,3600 block of Roosevelt Ave,2.0,2.0
+314,Indiana,False,True,False,True,"133,594",17-Feb-19,Evansville,664 E Illinois St,0.0,5.0
+315,Indiana,False,True,False,True,"133,594",26-Jan-19,Indianapolis,2957 N Sherman Dr,0.0,5.0
+316,Illinois,False,True,True,False,"147,698",29-Dec-19,Danville,1803 block of Westview Ave,0.0,5.0
+317,Illinois,False,True,True,False,"147,698",24-Dec-19,Joliet,1200 block of Cutter Ave,0.0,5.0
+318,Illinois,False,True,True,False,"147,698",22-Dec-19,Chicago,5700 block of S May St,0.0,13.0
+319,Illinois,False,True,True,False,"147,698",1-Dec-19,Aurora,700 block of S 5th St,1.0,4.0
+320,Illinois,False,True,True,False,"147,698",12-Oct-19,Chicago,6733 W Irving Park Rd,5.0,0.0
+321,Illinois,False,True,True,False,"147,698",29-Sep-19,Round Lake (Round Lake Park),500 block of Fairlawn Ave,1.0,3.0
+322,Illinois,False,True,True,False,"147,698",24-Sep-19,Chicago,2000 block of South Hoyne Ave,1.0,3.0
+323,Illinois,False,True,True,False,"147,698",18-Sep-19,Chicago,4200 block of W Madison St,3.0,1.0
+324,Illinois,False,True,True,False,"147,698",10-Sep-19,Chicago,2200 block of W Maypole Ave,0.0,4.0
+325,Illinois,False,True,True,False,"147,698",2-Sep-19,Chicago,6200 block of S King Dr,0.0,4.0
+326,Illinois,False,True,True,False,"147,698",31-Aug-19,Chicago,7100 block of S Paulina St,2.0,3.0
+327,Illinois,False,True,True,False,"147,698",25-Aug-19,Chicago,8200 block of S Maryland Ave,1.0,3.0
+328,Illinois,False,True,True,False,"147,698",11-Aug-19,Chicago,3500 block of W Lake St,0.0,6.0
+329,Illinois,False,True,True,False,"147,698",9-Aug-19,Chicago,7300 block of S Artesian Ave,0.0,4.0
+330,Illinois,False,True,True,False,"147,698",4-Aug-19,Chicago,1800 S Kildare Ave,1.0,7.0
+331,Illinois,False,True,True,False,"147,698",4-Aug-19,Chicago,2900 block of W Roosevelt Rd,0.0,7.0
+332,Illinois,False,True,True,False,"147,698",28-Jul-19,Chicago,3938 W Roosevelt Rd,0.0,4.0
+333,Illinois,False,True,True,False,"147,698",21-Jul-19,Chicago,3900 block of Roosevelt Rd,0.0,4.0
+334,Illinois,False,True,True,False,"147,698",20-Jul-19,Chicago,2401 N Lake Shore Dr,0.0,7.0
+335,Illinois,False,True,True,False,"147,698",18-Jul-19,Chicago,3427 W Fulton Blvd,1.0,3.0
+336,Illinois,False,True,True,False,"147,698",14-Jul-19,Chicago,4600 block of W Erie St,0.0,4.0
+337,Illinois,False,True,True,False,"147,698",13-Jul-19,Chicago,7900 block of S Loomis Blvd,1.0,4.0
+338,Illinois,False,True,True,False,"147,698",7-Jul-19,Chicago,5600 block of S Paulina St,0.0,4.0
+339,Illinois,False,True,True,False,"147,698",7-Jul-19,Chicago,600 block of W 61st Pl,0.0,4.0
+340,Illinois,False,True,True,False,"147,698",5-Jul-19,Chicago,1600 block of E 67th St,0.0,5.0
+341,Illinois,False,True,True,False,"147,698",4-Jul-19,Rockford,1100 block of Preston St,0.0,4.0
+342,Illinois,False,True,True,False,"147,698",4-Jul-19,Chicago,800 block of N Homan Ave,1.0,3.0
+343,Illinois,False,True,True,False,"147,698",29-Jun-19,Chicago,2400 block of W Jackson Blvd,0.0,5.0
+344,Illinois,False,True,True,False,"147,698",21-Jun-19,Chicago,6300 block of S King Dr,0.0,4.0
+345,Illinois,False,True,True,False,"147,698",8-Jun-19,Chicago,3500 block of W North Ave,0.0,4.0
+346,Illinois,False,True,True,False,"147,698",6-Jun-19,Chicago,2500 block of N Lake Shore Dr,1.0,3.0
+347,Illinois,False,True,True,False,"147,698",1-Jun-19,Chicago,300 block of East Chicago Ave,0.0,4.0
+348,Illinois,False,True,True,False,"147,698",1-Jun-19,Chicago,5600 block of West Madison St,0.0,4.0
+349,Illinois,False,True,True,False,"147,698",30-May-19,Robbins,14000 block of Grace Ave,0.0,5.0
+350,Illinois,False,True,True,False,"147,698",12-Apr-19,Carbondale,119 N Washington St,0.0,4.0
+351,Illinois,False,True,True,False,"147,698",6-Apr-19,Chicago,6300 block of S Seeley Ave,0.0,6.0
+352,Illinois,False,True,True,False,"147,698",31-Mar-19,Chicago,500 block of N Hamlin Ave,1.0,4.0
+353,Illinois,False,True,True,False,"147,698",3-Mar-19,Chicago,2900 block of E 79th St,0.0,6.0
+354,Illinois,False,True,True,False,"147,698",15-Feb-19,Aurora,641 Archer Ave,6.0,6.0
+355,Illinois,False,True,True,False,"147,698",3-Feb-19,Chicago,938 E 75th St,2.0,5.0
+356,Illinois,False,True,True,False,"147,698",19-Jan-19,Chicago,4400 block of W Madison St,0.0,4.0
+357,Idaho,False,False,False,True,"58,797",,,,,
+358,Georgia,False,True,False,True,"225,993",27-Dec-19,Kennesaw,1575 Ridenour Pkwy NW,0.0,4.0
+359,Georgia,False,True,False,True,"225,993",15-Dec-19,Columbus,600 block of 32nd St,1.0,4.0
+360,Georgia,False,True,False,True,"225,993",9-Nov-19,Vidalia,Wiggins St,0.0,4.0
+361,Georgia,False,True,False,True,"225,993",7-Nov-19,Conyers,1800 block of Green St,2.0,3.0
+362,Georgia,False,True,False,True,"225,993",14-Sep-19,Lagrange,1400 block of Elm St,0.0,4.0
+363,Georgia,False,True,False,True,"225,993",23-Aug-19,Dublin,200 Riverview Park Dr,0.0,4.0
+364,Georgia,False,True,False,True,"225,993",20-Aug-19,Atlanta,111 James P Brawley Dr SW,0.0,4.0
+365,Georgia,False,True,False,True,"225,993",15-Jul-19,Atlanta,1572 Hardee St NE,0.0,4.0
+366,Georgia,False,True,False,True,"225,993",28-Jun-19,Atlanta,Ira St and Bass St SW,0.0,7.0
+367,Georgia,False,True,False,True,"225,993",27-Jun-19,Atlanta,600 block of Parkway Dr,0.0,7.0
+368,Georgia,False,True,False,True,"225,993",11-Jun-19,Savannah,6900 Block of Damascus Rd,2.0,2.0
+369,Georgia,False,True,False,True,"225,993",1-Jun-19,Atlanta,12 Broad Street,0.0,5.0
+370,Georgia,False,True,False,True,"225,993",1-Jun-19,Macon,Suzanne Dr and Robinson Dr,2.0,4.0
+371,Georgia,False,True,False,True,"225,993",4-Apr-19,Stockbridge,300 block of Eagle Ct,3.0,2.0
+372,Georgia,False,True,False,True,"225,993",31-Mar-19,Atlanta,3041 Landrum Dr SW,1.0,4.0
+373,Georgia,False,True,False,True,"225,993",17-Mar-19,Augusta,900 block of Broad St,0.0,4.0
+374,Georgia,False,True,False,True,"225,993",17-Mar-19,Rochelle,Dennis St,1.0,3.0
+375,Georgia,False,True,False,True,"225,993",26-Jan-19,Albany,300 block of W Roosevelt,0.0,4.0
+376,Georgia,False,True,False,True,"225,993",24-Jan-19,Rockmart,319 Williamson St,4.0,1.0
+377,Florida,False,True,False,False,"432,581",26-Dec-19,Saint Petersburg,4300 6th St S,0.0,5.0
+378,Florida,False,True,False,False,"432,581",6-Dec-19,Pensacola,280 Taylor Rd,4.0,8.0
+379,Florida,False,True,False,False,"432,581",25-Nov-19,Brownsville,NW 29th Ave and 44th St,2.0,2.0
+380,Florida,False,True,False,False,"432,581",11-Nov-19,Belle Glade,SW 7th St,0.0,4.0
+381,Florida,False,True,False,False,"432,581",10-Oct-19,Tampa,5410 N Falkenburg Rd,2.0,2.0
+382,Florida,False,True,False,False,"432,581",29-Sep-19,Jacksonville,2200 block of Clemente Dr,0.0,4.0
+383,Florida,False,True,False,False,"432,581",4-Sep-19,Jacksonville,400 W 62nd St,0.0,4.0
+384,Florida,False,True,False,False,"432,581",14-Apr-19,Miami,NW 19th Ave and 60th St,2.0,2.0
+385,Florida,False,True,False,False,"432,581",6-Apr-19,Tallahassee,500 block of Kissimmee St,0.0,4.0
+386,Florida,False,True,False,False,"432,581",4-Apr-19,Panama City,100 block of Allen Ave,1.0,3.0
+387,Florida,False,True,False,False,"432,581",23-Jan-19,Sebring,1901 US 27 S,5.0,0.0
+388,Florida,False,True,False,False,"432,581",20-Jan-19,Miami,26133 SW 139th Ave,0.0,4.0
+389,Florida,False,True,False,False,"432,581",19-Jan-19,Jacksonville,11445 Brian Lakes Drive,3.0,2.0
+390,Florida,False,True,False,False,"432,581",16-Jan-19,Jacksonville,Emerson St and Spring Park Rd,1.0,5.0
+391,Florida,False,True,False,False,"432,581",1-Jan-19,Tallahassee,2020 W Pensacola St,0.0,5.0
+392,Delaware,False,True,False,True,"5,281",4-May-19,Wilmington,W 27th St and Tatnall St,0.0,4.0
+393,Delaware,False,True,False,True,"5,281",7-Apr-19,Wilmington,940 N Pine St,0.0,6.0
+394,Colorado,False,True,False,,"112,691",6-Oct-19,Denver,7100 block of Ruth Way,0.0,4.0
+395,Colorado,False,True,False,,"112,691",11-Jun-19,Aurora,12500 block of E Kansas Pl,0.0,4.0
+396,Colorado,False,True,False,,"112,691",7-May-19,Littleton (Highlands Ranch),8773 S Ridgeline Blvd,1.0,8.0
+397,Colorado,False,True,False,,"112,691",10-Mar-19,Denver,15th St and Market St,1.0,4.0
+398,Arkansas,False,False,False,True,"108,801",30-Nov-19,Hensley,6500 block of E Sardis Rd,0.0,5.0
+399,Arkansas,False,False,False,True,"108,801",10-Nov-19,Little Rock,3000 block of W 12th St,0.0,4.0
+400,Arkansas,False,False,False,True,"108,801",2-Mar-19,Pine Bluff,723 East 25th Ave,1.0,4.0
+401,Arkansas,False,False,False,True,"108,801",15-Jan-19,Little Rock,5420 Baseline Rd,1.0,4.0
+402,Arkansas,False,False,False,True,"108,801",2-Jan-19,Jonesboro,3516 Galaxy St,1.0,3.0
+403,Arizona,False,False,False,True,"204,817",1-Nov-19,Tolleson,2434 S 86th Ln,0.0,5.0
+404,Arizona,False,False,False,True,"204,817",11-Apr-19,Phoenix,7112 W Minnezona Ave,3.0,2.0
+405,Arizona,False,False,False,True,"204,817",24-Mar-19,Phoenix,2202 W McDowell Rd,0.0,7.0
+406,Arizona,False,False,False,True,"204,817",19-Mar-19,Phoenix,8526 N 27th Ave,2.0,4.0
+407,Arizona,False,False,False,True,"204,817",13-Jan-19,Phoenix,2445 E Van Buren St,1.0,5.0
+408,Arizona,False,False,False,True,"204,817",3-Jan-19,Yuma,3800 block of E County 18½ St,1.0,3.0
+409,Alaska,False,False,False,True,"20,520",,,,,
+410,Alabama,False,True,False,True,"168,265",20-Dec-19,Tuskegee,2900 block of Davison St,2.0,2.0
+411,Alabama,False,True,False,True,"168,265",4-Dec-19,Montgomery,500 Eastdale Rd S,2.0,2.0
+412,Alabama,False,True,False,True,"168,265",24-Nov-19,Birmingham,7 15th St W,1.0,4.0
+413,Alabama,False,True,False,True,"168,265",2-Sep-19,Elkmont,25019 Ridge Road,5.0,0.0
+414,Alabama,False,True,False,True,"168,265",1-Sep-19,Valley,502 Boulevard,0.0,7.0
+415,Alabama,False,True,False,True,"168,265",30-Aug-19,Mobile,1621 Virginia St,0.0,6.0
+416,Alabama,False,True,False,True,"168,265",15-Aug-19,Montgomery,847 N University Dr,2.0,3.0
+417,Alabama,False,True,False,True,"168,265",18-May-19,Atmore,100 Martin Luther King Avenue,1.0,8.0
+418,Alabama,False,True,False,True,"168,265",28-Apr-19,Birmingham,514 19th St Ensley,0.0,4.0
+419,Alabama,False,True,False,True,"168,265",15-Mar-19,Mobile,515 Dauphin Island Pkwy,2.0,4.0
+420,Alabama,False,True,False,True,"168,265",22-Feb-19,Birmingham,1100 block of Carnation Dr,2.0,2.0
+421,Alabama,False,True,False,True,"168,265",27-Jan-19,Birmingham,Avenue O and Warrior Rd,0.0,5.0
